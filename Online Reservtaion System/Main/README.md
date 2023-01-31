@@ -1,3 +1,17 @@
+##This requires you to download
+
+- 1.Java Software
+
+- 2.MySQL
+
+- 3.Java and MySQL connector
+
+Add connector jar file to the classpath and in project referenced libaries.
+
+Then you can run the Main.java file to run the project.
+
+That's was it.
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
